@@ -1,0 +1,25 @@
+version: 1
+
+project:
+  id: c60b9620-d86f-4fcd-bfbb-286f55e93e47
+  title: My Data Structures Book
+  authors:
+    - name: 2492047 김예현
+
+  toc:
+    - file: intro.md
+
+    - title: Part 1. Basic Python
+      children:
+        - file: 1_5_Lab_Participation.ipynb
+
+    - title: Part 2. Linear Structures
+      children:
+        - file: 6_Stack_Queue.ipynb
+
+    - title: Part 3. Nonlinear Structures
+      children:
+        - file: 8_Tree.ipynb
+
+site:
+  template: book-theme
