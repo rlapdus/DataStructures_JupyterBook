@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-RX3YIEIM.js";import"/build/_shared/chunk-CBDDV5MN.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/DataStructures_JupyterBook//build/_shared/chunk-RX3YIEIM.js";import"/DataStructures_JupyterBook//build/_shared/chunk-CBDDV5MN.js";import"/DataStructures_JupyterBook//build/_shared/chunk-OZE3FFNP.js";export default a();
